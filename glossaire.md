@@ -44,6 +44,7 @@ Jean-Michel Godbout
 ### Dictionnaires de données du RCIP
 
 ### Dublin Core
+Alexandre Lafortune
 
 ### EDM (Europeana Data Model)
 
@@ -95,7 +96,7 @@ Vanessa Michaud
 Isabelle Algrin
 
 ### Linked Open Data
-
+Alexandre Lafortune
 ### METS (Metadata Encoding Transmission Schema)
 
 ### OAI-PMH (Open Archives Initiative Protocol for Metadata Harvesting)
@@ -135,6 +136,7 @@ Annie Breton
 Isabelle Algrin
 
 ### URI Uniform Resource Identifier
+Alexandre Lafortune
 
 ### VRA Core 4.0
 
